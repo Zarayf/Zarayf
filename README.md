@@ -1,3 +1,4 @@
+<img src="images/svg/header_en.svg"></img>
 <h1 align="center">Hi 👋, I'm Zaray 😄</h1>
 <h3 align="center">A passionate web developer with a lot of desire</h3>
 
