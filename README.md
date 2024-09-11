@@ -5,9 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zarayf" alt="zarayf" /></a> </p>
 
-- 🌱 I’m currently learning **typescript and others...**
+- 🌱 I’m currently learning **typescript, phyton and investigating other interesting technologies 😎**
 
-- 📫 How to reach me **zarayf@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
