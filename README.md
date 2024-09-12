@@ -1,3 +1,4 @@
+![banner](https://github.com/user-attachments/assets/86558f3e-9595-4db2-9342-43d84dfd8fc0)
 
 
 <h1 align="center">Hi 👋, I'm Zaray 😄!
