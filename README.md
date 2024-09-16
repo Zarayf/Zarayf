@@ -4,9 +4,44 @@
 
 <h3 align="center">A passionate web developer with a lot of desire</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zarayf" alt="zarayf" /></a> </p>
 
-- 🌱 I’m currently learning **typescript, phyton and investigating other interesting technologies 😎**
+
+### About me 🙋‍♀️:
+I am a HACKABOSS certified WEB DEVELOPER.<br/>
+I have developed several apps like fullstack.<br/>
+I am interested in learning PHP, PHYTON and would 💖 to grow my knowledge in these Technologies.
+
+<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/279add68-7d06-490e-8714-98f3a5ba6e30" width="400" height="280" />
+
+- 🔭 I’m currently working on Frontend Web Development.
+- 🌱 I’m currently learning other languages and frameworks.
+- 👯 I’m looking to collaborate with Fullstack Web Developers.
+- 🤔 I’m looking for help with Open source Contribution.
+- 💬 Ask me about my soft skills 😏.
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I 💖 to code 24x7.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <h3 align="left">Connect with me:</h3>
